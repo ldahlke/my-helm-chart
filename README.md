@@ -9,7 +9,6 @@ pip3 install -r requirements.txt
 ```
 
 ### Docker
-
 ```
 docker run -it --rm --entrypoint /bin/sh 
 ```
