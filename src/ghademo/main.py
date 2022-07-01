@@ -20,6 +20,7 @@ def process_request(t):
     """A dummy function that takes some time."""
     global_logger.info(f'Sleeping for {t} seconds...')
     time.sleep(t)
+    time.sleep(t)
 
 def main():
     logging.basicConfig(level=10)  # override locust logging config
