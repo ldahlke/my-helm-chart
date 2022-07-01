@@ -1,0 +1,2 @@
+# when making changes, make sure to also edit setup.py accordingly
+prometheus-client==0.13.1
