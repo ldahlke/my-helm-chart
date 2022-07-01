@@ -1,3 +1,8 @@
+# Create a clean gh-pages branch
+git checkout --orphan gh-pages
+git rm -rf .
+git commit -m "Initial commit" --allow-empty
+git push --set-upstream origin gh-pages
 # GHA Demo
 ```
 pip install -r requirements.txt
