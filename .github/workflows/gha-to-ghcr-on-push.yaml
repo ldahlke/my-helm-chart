@@ -1,5 +1,5 @@
 ---
-name:ghademo Docker Image on Push to GHCR
+name: ghademo Docker Image on Push to GHCR
 
 on:
   push:
