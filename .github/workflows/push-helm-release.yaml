@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'charts/ghademo'
+      - 'charts/ghademo/**'
       
   workflow_dispatch:
 
